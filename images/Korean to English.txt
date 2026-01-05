@@ -1,0 +1,217 @@
+1f1b.gif : Same as on GitHub
+1f1b.png : Same as on GitHub
+GPT-X.png : Changes made
+adam.png : Changes made
+allgather.png : Same 
+allreduce.png : Same
+allreduce_1 : Changes made
+allreduce_2 : Changes made
+apex : Same
+arch_is_not_important.png : Same
+backends : Same
+backward_step.png : changes made
+big_science : same
+broadcast.png : same
+checkpoint_1.png : same
+checkpoint_2.png : same
+checkpoint_3.png : same
+checkpoint_act.gif : same
+/checkpoint_full_act.gif : same
+/checkpoint_no_act.gif : same
+cl_1 : same
+/collective.png : changes
+/column_parallel.png : same
+/cpu_adam.png : same
+/data_parallelism.png : changes
+ddp : changes
+/ddp_analysis_1.png : changes
+/ddp_analysis_2.png : changes
+/ddp_analysis_3.png : changes
+/ddp_analysis_4.png : changes
+/dp_backward.png : same
+/dp_forward.png : same
+/dp_forward_2.png : same
+/dp_training.png : same
+/eleuther_ai.png : same
+gather : same
+/gpipe_1.png : same
+/gpipe_2.png : same
+/gpipe_3.gif : same
+//////////////////////////////////hard_core_engineering.png : changes remaining///////////////
+/inter_layer.png : same
+/inter_layer_2.png : same
+/inter_layer_3.gif : same
+/interleaved_1.png : same
+/intra_layer.png : same
+/intra_layer_2.png : same
+/is_large_scale_easy.png : changes
+/kernel_fusion.png : same
+/lm_head.png : same
+/max_pooling.png : same
+/megatron_3d.png : same
+/megatron_attention.jpeg : same
+/megatron_block.png : same
+/megatron_lm.jpeg : same
+/megatron_mlp.png : same
+/megatron_mlp_2.png : same
+/megatron_mlp_3.png : same
+/megatron_mlp_4.png : same
+/megatron_mlp_5.png : same
+/megatron_mlp_6.png : same
+/memory.png : same
+/message_passing.png : changes
+/mixed_precision_1.png : same
+/mixed_precision_2.png : same
+/mixed_precision_33.png : same
+/mixed_precision_4.png : same
+/mixed_precision_5.png : same
+/model_parallelism.png : changes
+/multi_head_attention.png : same
+/multi_process_1.png : same
+/multi_process_2.png : same
+/one_bit_adam.png : same
+/open_mpi.png : same
+/p2p.png : same: 
+/parallelformers.png : same
+/parallelism.png : same
+/pipe_dream.png : same
+/pipe_dream_2bw.png : changes
+/pipe_dream_flush.png : same
+/pipe_dream_flush_2.png : same
+/pipeline_flush.png : same
+/pipeline_parallelism.png : same
+/pipeline_parallelism2.png : lots of changes
+/pld_1.png : same
+/pld_2.png : same
+/pld_3.png : same
+/process_terms.png : changes
+/rank_error.png : same
+/reduce.png : same
+/reduce_scatter.png : same
+////////////////////////////////////ring_allreduce.gif : changes to be made///////////////////////
+/ring_allreduce.png : changes made
+/row_parallelism.png : same
+/scale_is_all_you_need.png : same
+/scatter.png : same
+/tensor_replace.png : same
+/transformer_arch.png : same
+/vpce_1.png : same
+/vpce_2.png : same
+/vpce_3.png : same
+/vpe_1.png : same
+/vpe_2.png : same
+/which_backend.png : same
+/why_large_scale.png : changes
+/zero_1.png : same
+/zero_2.png : same
+/zero_3.png : same
+////////////////////////zero_infinity.mp4 : video not loading/////////////////////////
+/zero_infinity.png : same
+/zero_off_1.png : same
+/zero_off_2.png : same
+/zero_off_3.png : same
+/zero_off_4.png : same
+/zero_r_1.png : same
+/zero_r_2.png : same
+/zero_r_3.jpeg : changes 
+//////////////////////////////////zero_video.mp4 : video not loading/////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
